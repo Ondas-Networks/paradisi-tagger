@@ -1,1 +1,4 @@
-# paradisi-tagger
+# Setup Instructions
+
+
+# Configuration Options
