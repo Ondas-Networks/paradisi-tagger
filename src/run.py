@@ -72,22 +72,11 @@ class DatabaseUpdater(threading.Thread):
             return False  # Failed update
 
 
-class SenseHatDisplay:
-    def __init__(self):
-        self.sense_hat = SenseHat()
-
-    def show_tick(self):
-        self.sense_hat.clear((0, 255, 0))  # Green
-        # Display a tick mark, customize as needed
-
-    def show_cross(self):
-        self.sense_hat.clear((255, 0, 0))  # Red
-        # Display a cross mark, customize as needed
 
 
 def main():
     input_queue = queue.Queue()
-    sense_hat_display = SenseHatDisplay()
+    sense_hat_display = SenseHat()
 
     barcode_scanner = BarcodeScanner(input_queue, sense_hat_display)
     # database_updater = DatabaseUpdater(input_queue, sense_hat_display)
