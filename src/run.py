@@ -75,18 +75,23 @@ class DatabaseUpdater(threading.Thread):
 
 
 def main():
-    input_queue = queue.Queue()
     sense_hat_display = SenseHat()
+    try:
+        input_queue = queue.Queue()
 
-    barcode_scanner = BarcodeScanner(input_queue, sense_hat_display)
-    # database_updater = DatabaseUpdater(input_queue, sense_hat_display)
+        barcode_scanner = BarcodeScanner(input_queue, sense_hat_display)
+        # database_updater = DatabaseUpdater(input_queue, sense_hat_display)
 
-    barcode_scanner.start()
-    # database_updater.start()
+        barcode_scanner.start()
+        # database_updater.start()
 
-    # Keep the main thread running
-    while True:
-        time.sleep(1)
+        # Keep the main thread running
+        while True:
+            time.sleep(1)
+    except Exception as e:
+        print("An error occurred:", e)
+    finally:
+        sense_hat_display.clear()
 
 
 if __name__ == "__main__":
