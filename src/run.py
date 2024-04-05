@@ -88,6 +88,8 @@ def main():
         # Keep the main thread running
         while True:
             time.sleep(1)
+    except KeyboardInterrupt:
+        barcode_scanner.join()
     except Exception as e:
         print("An error occurred:", e)
     finally:
