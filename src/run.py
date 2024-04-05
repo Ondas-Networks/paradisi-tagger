@@ -1,7 +1,6 @@
 import threading
 import queue
 import time
-import sqlite3  # assuming SQLite is used for the database
 import usb.core  # for USB device communication
 # from sense_hat import SenseHat
 
