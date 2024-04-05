@@ -23,7 +23,7 @@ class BarcodeScanner(threading.Thread):
         """Find the barcode scanner device and set it as the scanner attribute."""
         while self.scanner is None:
             self.scanner = usb.core.find(
-                idVendor="0x03f0", idProduct="0x2d39"
+                idVendor="03f0", idProduct="2d39"
             )  # replace with actual IDs
             if self.scanner is None:
                 self.sense_hat.set_pixel(
