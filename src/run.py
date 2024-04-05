@@ -2,6 +2,7 @@ import threading
 import queue
 import time
 import usb.core  # for USB device communication
+from sense_hat import SenseHat
 # from sense_hat import SenseHat
 
 
