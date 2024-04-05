@@ -3,8 +3,12 @@ import queue
 import time
 import usb.core  # for USB device communication
 from sense_hat import SenseHat
-# from sense_hat import SenseHat
 
+# Import loguru
+from loguru import logger
+
+# Configure loguru to log to a file
+logger.add("logs.log")
 
 class BarcodeScanner(threading.Thread):
     """Thread class to read data from the barcode scanner and put it into the input queue."""
@@ -26,10 +30,12 @@ class BarcodeScanner(threading.Thread):
                     7, 7, 255, 0, 0
                 )  # Red pixel to indicate scanner not found
                 time.sleep(1)  # Wait for 1 second before trying again
+            else:
+                self.sense_hat.clear((0, 255, 0))  # Green flash
+                time.sleep(0.5)
 
     def run(self):
         self.find_scanner()
-        self.sense_hat.clear((0, 255, 0))  # Green flash
         while True:
             try:
                 data = self.scanner.read(8)
