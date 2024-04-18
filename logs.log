@@ -1,0 +1,202 @@
+2024-04-05 14:45:14.322 | INFO     | __main__:run:37 - Queue: <queue.Queue object at 0x7391e4f0>
+2024-04-05 14:45:21.821 | INFO     | __main__:run:37 - Queue: <queue.Queue object at 0x7391e4f0>
+2024-04-05 14:45:24.311 | INFO     | __main__:run:37 - Queue: <queue.Queue object at 0x7391e4f0>
+2024-04-05 14:46:00.883 | INFO     | __main__:run:37 - Queue: deque(['5368100118'])
+2024-04-05 14:46:06.262 | INFO     | __main__:run:37 - Queue: deque(['5368100118', '5368100118'])
+2024-04-05 14:46:08.794 | INFO     | __main__:run:37 - Queue: deque(['5368100118', '5368100118', '5368100118'])
+2024-04-05 14:46:11.379 | INFO     | __main__:run:37 - Queue: deque(['5368100118', '5368100118', '5368100118', '5368100118'])
+2024-04-05 15:00:01.585 | INFO     | __main__:run:47 - Queue: deque(['5368100118'])
+2024-04-05 15:00:28.742 | ERROR    | __main__:run:50 - No device found, check vendor_id and product_id
+2024-04-05 15:00:29.763 | ERROR    | __main__:run:50 - No device found, check vendor_id and product_id
+2024-04-05 15:00:30.768 | ERROR    | __main__:run:50 - No device found, check vendor_id and product_id
+2024-04-05 15:00:31.773 | ERROR    | __main__:run:50 - No device found, check vendor_id and product_id
+2024-04-05 15:00:32.777 | ERROR    | __main__:run:50 - No device found, check vendor_id and product_id
+2024-04-05 15:00:33.784 | ERROR    | __main__:run:50 - No device found, check vendor_id and product_id
+2024-04-05 15:00:34.789 | ERROR    | __main__:run:50 - No device found, check vendor_id and product_id
+2024-04-05 15:00:35.794 | ERROR    | __main__:run:50 - No device found, check vendor_id and product_id
+2024-04-05 15:00:36.800 | ERROR    | __main__:run:50 - No device found, check vendor_id and product_id
+2024-04-05 15:00:37.807 | ERROR    | __main__:run:50 - No device found, check vendor_id and product_id
+2024-04-05 15:01:13.849 | INFO     | __main__:run:47 - Queue: deque(['5368100118'])
+2024-04-05 15:01:19.094 | INFO     | __main__:run:47 - Queue: deque(['5368100118', '5368100118'])
+2024-04-05 15:14:54.687 | ERROR    | __main__:run:50 - No device found, check vendor_id and product_id
+2024-04-05 15:14:55.708 | ERROR    | __main__:run:50 - No device found, check vendor_id and product_id
+2024-04-05 15:14:56.713 | ERROR    | __main__:run:50 - No device found, check vendor_id and product_id
+2024-04-05 15:14:57.717 | ERROR    | __main__:run:50 - No device found, check vendor_id and product_id
+2024-04-05 15:14:58.722 | ERROR    | __main__:run:50 - No device found, check vendor_id and product_id
+2024-04-05 15:14:59.727 | ERROR    | __main__:run:50 - No device found, check vendor_id and product_id
+2024-04-05 15:15:00.734 | ERROR    | __main__:run:50 - No device found, check vendor_id and product_id
+2024-04-05 15:15:01.740 | ERROR    | __main__:run:50 - No device found, check vendor_id and product_id
+2024-04-05 15:15:08.142 | INFO     | __main__:run:47 - Queue: deque(['5368100118'])
+2024-04-05 15:18:43.691 | ERROR    | __main__:run:50 - No device found, check vendor_id and product_id
+2024-04-05 15:18:44.709 | ERROR    | __main__:run:50 - No device found, check vendor_id and product_id
+2024-04-05 15:18:45.713 | ERROR    | __main__:run:50 - No device found, check vendor_id and product_id
+2024-04-05 15:18:46.718 | ERROR    | __main__:run:50 - No device found, check vendor_id and product_id
+2024-04-05 15:18:47.722 | ERROR    | __main__:run:50 - No device found, check vendor_id and product_id
+2024-04-05 15:18:48.728 | ERROR    | __main__:run:50 - No device found, check vendor_id and product_id
+2024-04-05 15:18:49.735 | ERROR    | __main__:run:50 - No device found, check vendor_id and product_id
+2024-04-05 15:18:50.742 | ERROR    | __main__:run:50 - No device found, check vendor_id and product_id
+2024-04-05 15:18:53.239 | ERROR    | __main__:run:50 - USB Error occurred: [Errno 110] Operation timed out
+2024-04-05 15:18:54.244 | ERROR    | __main__:run:50 - Could not set configuration: [Errno 16] Resource busy
+2024-04-05 15:18:55.250 | ERROR    | __main__:run:50 - Could not set configuration: [Errno 16] Resource busy
+2024-04-05 15:18:56.257 | ERROR    | __main__:run:50 - Could not set configuration: [Errno 16] Resource busy
+2024-04-05 15:18:57.264 | ERROR    | __main__:run:50 - Could not set configuration: [Errno 16] Resource busy
+2024-04-05 15:18:58.269 | ERROR    | __main__:run:50 - Could not set configuration: [Errno 16] Resource busy
+2024-04-05 15:18:59.274 | ERROR    | __main__:run:50 - Could not set configuration: [Errno 16] Resource busy
+2024-04-05 15:19:00.280 | ERROR    | __main__:run:50 - Could not set configuration: [Errno 16] Resource busy
+2024-04-05 15:19:01.287 | ERROR    | __main__:run:50 - Could not set configuration: [Errno 16] Resource busy
+2024-04-05 15:19:02.293 | ERROR    | __main__:run:50 - Could not set configuration: [Errno 16] Resource busy
+2024-04-05 15:19:03.300 | ERROR    | __main__:run:50 - Could not set configuration: [Errno 16] Resource busy
+2024-04-05 15:19:04.306 | ERROR    | __main__:run:50 - Could not set configuration: [Errno 16] Resource busy
+2024-04-05 15:19:05.312 | ERROR    | __main__:run:50 - Could not set configuration: [Errno 16] Resource busy
+2024-04-05 15:19:06.317 | ERROR    | __main__:run:50 - Could not set configuration: [Errno 16] Resource busy
+2024-04-05 15:19:07.329 | ERROR    | __main__:run:50 - Could not set configuration: [Errno 16] Resource busy
+2024-04-05 15:19:08.334 | ERROR    | __main__:run:50 - Could not set configuration: [Errno 16] Resource busy
+2024-04-05 15:19:09.340 | ERROR    | __main__:run:50 - Could not set configuration: [Errno 16] Resource busy
+2024-04-05 15:19:10.346 | ERROR    | __main__:run:50 - Could not set configuration: [Errno 16] Resource busy
+2024-04-05 15:19:11.352 | ERROR    | __main__:run:50 - Could not set configuration: [Errno 16] Resource busy
+2024-04-05 15:19:12.360 | ERROR    | __main__:run:50 - Could not set configuration: [Errno 16] Resource busy
+2024-04-05 15:19:13.365 | ERROR    | __main__:run:50 - Could not set configuration: [Errno 16] Resource busy
+2024-04-05 15:19:14.371 | ERROR    | __main__:run:50 - Could not set configuration: [Errno 16] Resource busy
+2024-04-05 15:19:15.376 | ERROR    | __main__:run:50 - Could not set configuration: [Errno 16] Resource busy
+2024-04-05 15:19:16.382 | ERROR    | __main__:run:50 - Could not set configuration: [Errno 16] Resource busy
+2024-04-05 15:19:17.389 | ERROR    | __main__:run:50 - Could not set configuration: [Errno 16] Resource busy
+2024-04-05 15:19:18.395 | ERROR    | __main__:run:50 - Could not set configuration: [Errno 16] Resource busy
+2024-04-05 15:19:19.401 | ERROR    | __main__:run:50 - Could not set configuration: [Errno 16] Resource busy
+2024-04-05 15:19:20.408 | ERROR    | __main__:run:50 - Could not set configuration: [Errno 16] Resource busy
+2024-04-05 15:19:21.414 | ERROR    | __main__:run:50 - Could not set configuration: [Errno 16] Resource busy
+2024-04-05 15:19:22.420 | ERROR    | __main__:run:50 - Could not set configuration: [Errno 16] Resource busy
+2024-04-05 15:19:23.426 | ERROR    | __main__:run:50 - Could not set configuration: [Errno 16] Resource busy
+2024-04-05 15:19:24.430 | ERROR    | __main__:run:50 - Could not set configuration: [Errno 16] Resource busy
+2024-04-05 15:19:25.436 | ERROR    | __main__:run:50 - Could not set configuration: [Errno 16] Resource busy
+2024-04-05 15:19:26.447 | ERROR    | __main__:run:50 - Could not set configuration: [Errno 16] Resource busy
+2024-04-05 15:19:27.453 | ERROR    | __main__:run:50 - Could not set configuration: [Errno 16] Resource busy
+2024-04-05 15:19:28.457 | ERROR    | __main__:run:50 - Could not set configuration: [Errno 16] Resource busy
+2024-04-05 15:19:29.463 | ERROR    | __main__:run:50 - Could not set configuration: [Errno 16] Resource busy
+2024-04-05 15:19:30.468 | ERROR    | __main__:run:50 - Could not set configuration: [Errno 16] Resource busy
+2024-04-05 15:19:31.473 | ERROR    | __main__:run:50 - Could not set configuration: [Errno 16] Resource busy
+2024-04-05 15:19:32.480 | ERROR    | __main__:run:50 - Could not set configuration: [Errno 16] Resource busy
+2024-04-05 15:19:33.487 | ERROR    | __main__:run:50 - Could not set configuration: [Errno 16] Resource busy
+2024-04-05 15:19:34.492 | ERROR    | __main__:run:50 - Could not set configuration: [Errno 16] Resource busy
+2024-04-05 15:19:35.498 | ERROR    | __main__:run:50 - Could not set configuration: [Errno 16] Resource busy
+2024-04-05 15:19:36.505 | ERROR    | __main__:run:50 - Could not set configuration: [Errno 16] Resource busy
+2024-04-05 15:19:37.512 | ERROR    | __main__:run:50 - Could not set configuration: [Errno 16] Resource busy
+2024-04-05 15:19:38.520 | ERROR    | __main__:run:50 - Could not set configuration: [Errno 16] Resource busy
+2024-04-05 15:19:39.525 | ERROR    | __main__:run:50 - Could not set configuration: [Errno 16] Resource busy
+2024-04-05 15:19:40.531 | ERROR    | __main__:run:50 - Could not set configuration: [Errno 16] Resource busy
+2024-04-05 15:19:41.536 | ERROR    | __main__:run:50 - Could not set configuration: [Errno 16] Resource busy
+2024-04-05 15:19:42.562 | ERROR    | __main__:run:50 - Could not set configuration: [Errno 16] Resource busy
+2024-04-05 15:19:58.156 | ERROR    | __main__:run:50 - USB Error occurred: [Errno 110] Operation timed out
+2024-04-05 15:20:00.976 | ERROR    | __main__:run:50 - USB Error occurred: [Errno 110] Operation timed out
+2024-04-05 15:20:03.743 | ERROR    | __main__:run:50 - USB Error occurred: [Errno 110] Operation timed out
+2024-04-05 15:20:06.565 | ERROR    | __main__:run:50 - USB Error occurred: [Errno 110] Operation timed out
+2024-04-05 15:20:09.323 | ERROR    | __main__:run:50 - USB Error occurred: [Errno 110] Operation timed out
+2024-04-05 15:20:12.195 | ERROR    | __main__:run:50 - USB Error occurred: [Errno 110] Operation timed out
+2024-04-05 15:20:15.015 | ERROR    | __main__:run:50 - USB Error occurred: [Errno 110] Operation timed out
+2024-04-05 15:20:17.776 | ERROR    | __main__:run:50 - USB Error occurred: [Errno 110] Operation timed out
+2024-04-05 15:20:20.556 | ERROR    | __main__:run:50 - USB Error occurred: [Errno 110] Operation timed out
+2024-04-05 15:20:23.303 | ERROR    | __main__:run:50 - USB Error occurred: [Errno 110] Operation timed out
+2024-04-05 15:20:26.168 | ERROR    | __main__:run:50 - USB Error occurred: [Errno 110] Operation timed out
+2024-04-05 15:20:29.184 | ERROR    | __main__:run:50 - USB Error occurred: [Errno 110] Operation timed out
+2024-04-05 15:20:31.946 | ERROR    | __main__:run:50 - USB Error occurred: [Errno 110] Operation timed out
+2024-04-05 15:20:34.715 | ERROR    | __main__:run:50 - USB Error occurred: [Errno 110] Operation timed out
+2024-04-05 15:20:37.505 | ERROR    | __main__:run:50 - USB Error occurred: [Errno 110] Operation timed out
+2024-04-05 15:20:40.275 | ERROR    | __main__:run:50 - USB Error occurred: [Errno 110] Operation timed out
+2024-04-05 15:20:43.022 | ERROR    | __main__:run:50 - USB Error occurred: [Errno 110] Operation timed out
+2024-04-05 15:20:45.792 | ERROR    | __main__:run:50 - USB Error occurred: [Errno 110] Operation timed out
+2024-04-05 15:20:48.564 | ERROR    | __main__:run:50 - USB Error occurred: [Errno 110] Operation timed out
+2024-04-05 15:20:51.326 | ERROR    | __main__:run:50 - USB Error occurred: [Errno 110] Operation timed out
+2024-04-05 15:20:54.115 | ERROR    | __main__:run:50 - USB Error occurred: [Errno 110] Operation timed out
+2024-04-05 15:20:56.869 | ERROR    | __main__:run:50 - USB Error occurred: [Errno 110] Operation timed out
+2024-04-05 15:20:59.624 | ERROR    | __main__:run:50 - USB Error occurred: [Errno 110] Operation timed out
+2024-04-05 15:21:02.365 | ERROR    | __main__:run:50 - USB Error occurred: [Errno 110] Operation timed out
+2024-04-05 15:21:05.145 | ERROR    | __main__:run:50 - USB Error occurred: [Errno 110] Operation timed out
+2024-04-05 15:21:07.945 | ERROR    | __main__:run:50 - USB Error occurred: [Errno 110] Operation timed out
+2024-04-05 15:21:10.693 | ERROR    | __main__:run:50 - USB Error occurred: [Errno 110] Operation timed out
+2024-04-05 15:21:13.443 | ERROR    | __main__:run:50 - USB Error occurred: [Errno 110] Operation timed out
+2024-04-05 15:21:16.203 | ERROR    | __main__:run:50 - USB Error occurred: [Errno 110] Operation timed out
+2024-04-05 15:21:19.021 | ERROR    | __main__:run:50 - USB Error occurred: [Errno 110] Operation timed out
+2024-04-05 15:21:29.882 | ERROR    | __main__:run:50 - USB Error occurred: [Errno 110] Operation timed out
+2024-04-05 15:21:32.781 | ERROR    | __main__:run:50 - USB Error occurred: [Errno 110] Operation timed out
+2024-04-05 15:21:35.653 | ERROR    | __main__:run:50 - USB Error occurred: [Errno 110] Operation timed out
+2024-04-05 15:21:38.507 | ERROR    | __main__:run:50 - USB Error occurred: [Errno 110] Operation timed out
+2024-04-05 15:21:49.778 | ERROR    | __main__:run:50 - No data received from the device
+2024-04-05 15:21:52.575 | ERROR    | __main__:run:50 - No data received from the device
+2024-04-05 15:21:55.426 | ERROR    | __main__:run:50 - USB Error occurred: [Errno 110] Operation timed out
+2024-04-05 15:21:58.395 | ERROR    | __main__:run:50 - USB Error occurred: [Errno 110] Operation timed out
+2024-04-05 15:22:01.175 | ERROR    | __main__:run:50 - No data received from the device
+2024-04-05 15:22:04.045 | ERROR    | __main__:run:50 - USB Error occurred: [Errno 110] Operation timed out
+2024-04-05 15:22:06.955 | ERROR    | __main__:run:50 - USB Error occurred: [Errno 110] Operation timed out
+2024-04-05 15:26:55.870 | INFO     | __main__:run:47 - Queue: deque(['5368100118'])
+2024-04-05 15:27:03.477 | INFO     | __main__:run:47 - Queue: deque(['5368100118', '5368100118'])
+2024-04-05 15:29:50.486 | INFO     | __main__:run:47 - Queue: deque(['5368100118'])
+2024-04-05 15:29:59.600 | INFO     | __main__:run:47 - Queue: deque(['5368100118', '5368100118'])
+2024-04-05 15:30:07.940 | INFO     | __main__:run:47 - Queue: deque(['5368100118', '5368100118', '5368100118'])
+2024-04-05 15:32:42.331 | ERROR    | __main__:run:50 - No device found, check vendor_id and product_id
+2024-04-05 15:32:43.346 | ERROR    | __main__:run:50 - No device found, check vendor_id and product_id
+2024-04-05 15:32:44.352 | ERROR    | __main__:run:50 - No device found, check vendor_id and product_id
+2024-04-05 15:32:45.359 | ERROR    | __main__:run:50 - No device found, check vendor_id and product_id
+2024-04-05 15:32:46.366 | ERROR    | __main__:run:50 - No device found, check vendor_id and product_id
+2024-04-05 15:32:47.373 | ERROR    | __main__:run:50 - No device found, check vendor_id and product_id
+2024-04-05 15:32:48.379 | ERROR    | __main__:run:50 - No device found, check vendor_id and product_id
+2024-04-05 15:32:49.396 | ERROR    | __main__:run:50 - No device found, check vendor_id and product_id
+2024-04-05 15:32:50.403 | ERROR    | __main__:run:50 - No device found, check vendor_id and product_id
+2024-04-05 15:34:07.285 | ERROR    | __main__:run:50 - No device found, check vendor_id and product_id
+2024-04-05 15:34:08.317 | ERROR    | __main__:run:50 - No device found, check vendor_id and product_id
+2024-04-05 15:34:09.323 | ERROR    | __main__:run:50 - No device found, check vendor_id and product_id
+2024-04-05 15:34:10.329 | ERROR    | __main__:run:50 - No device found, check vendor_id and product_id
+2024-04-05 15:34:11.336 | ERROR    | __main__:run:50 - No device found, check vendor_id and product_id
+2024-04-05 15:34:12.345 | ERROR    | __main__:run:50 - No device found, check vendor_id and product_id
+2024-04-05 15:34:33.287 | INFO     | __main__:run:47 - Queue: deque(['5368100118'])
+2024-04-05 15:34:39.901 | ERROR    | __main__:run:50 - [Errno 2] Entity not found
+2024-04-05 15:34:41.037 | ERROR    | __main__:run:50 - No device found, check vendor_id and product_id
+2024-04-05 15:34:42.046 | ERROR    | __main__:run:50 - No device found, check vendor_id and product_id
+2024-04-05 15:34:43.052 | ERROR    | __main__:run:50 - No device found, check vendor_id and product_id
+2024-04-05 15:34:44.057 | ERROR    | __main__:run:50 - No device found, check vendor_id and product_id
+2024-04-05 15:34:45.064 | ERROR    | __main__:run:50 - No device found, check vendor_id and product_id
+2024-04-05 15:34:46.071 | ERROR    | __main__:run:50 - No device found, check vendor_id and product_id
+2024-04-05 15:34:47.078 | ERROR    | __main__:run:50 - No device found, check vendor_id and product_id
+2024-04-05 15:34:48.086 | ERROR    | __main__:run:50 - No device found, check vendor_id and product_id
+2024-04-05 15:34:49.095 | ERROR    | __main__:run:50 - No device found, check vendor_id and product_id
+2024-04-05 15:34:50.100 | ERROR    | __main__:run:50 - No device found, check vendor_id and product_id
+2024-04-05 15:35:00.478 | INFO     | __main__:run:47 - Queue: deque(['5368100118', '5368100118'])
+2024-04-05 15:35:07.067 | ERROR    | __main__:run:50 - [Errno 2] Entity not found
+2024-04-05 15:35:08.417 | ERROR    | __main__:run:50 - No device found, check vendor_id and product_id
+2024-04-05 15:35:09.423 | ERROR    | __main__:run:50 - No device found, check vendor_id and product_id
+2024-04-05 15:35:10.430 | ERROR    | __main__:run:50 - No device found, check vendor_id and product_id
+2024-04-05 15:35:11.436 | ERROR    | __main__:run:50 - No device found, check vendor_id and product_id
+2024-04-05 15:35:12.443 | ERROR    | __main__:run:50 - No device found, check vendor_id and product_id
+2024-04-05 15:35:13.450 | ERROR    | __main__:run:50 - No device found, check vendor_id and product_id
+2024-04-05 15:35:14.457 | ERROR    | __main__:run:50 - No device found, check vendor_id and product_id
+2024-04-05 15:35:15.467 | ERROR    | __main__:run:50 - No device found, check vendor_id and product_id
+2024-04-05 15:35:23.391 | ERROR    | __main__:run:50 - [Errno 2] Entity not found
+2024-04-05 15:35:24.424 | ERROR    | __main__:run:50 - No device found, check vendor_id and product_id
+2024-04-05 15:35:25.430 | ERROR    | __main__:run:50 - No device found, check vendor_id and product_id
+2024-04-05 15:35:26.441 | ERROR    | __main__:run:50 - No device found, check vendor_id and product_id
+2024-04-05 15:35:27.449 | ERROR    | __main__:run:50 - No device found, check vendor_id and product_id
+2024-04-05 15:35:28.456 | ERROR    | __main__:run:50 - No device found, check vendor_id and product_id
+2024-04-05 15:35:29.461 | ERROR    | __main__:run:50 - No device found, check vendor_id and product_id
+2024-04-05 15:35:30.468 | ERROR    | __main__:run:50 - No device found, check vendor_id and product_id
+2024-04-05 15:35:31.476 | ERROR    | __main__:run:50 - No device found, check vendor_id and product_id
+2024-04-05 15:35:38.598 | ERROR    | __main__:run:50 - [Errno 2] Entity not found
+2024-04-05 15:35:39.781 | ERROR    | __main__:run:50 - No device found, check vendor_id and product_id
+2024-04-05 15:35:40.789 | ERROR    | __main__:run:50 - No device found, check vendor_id and product_id
+2024-04-05 15:35:41.796 | ERROR    | __main__:run:50 - No device found, check vendor_id and product_id
+2024-04-05 15:38:38.348 | ERROR    | __main__:run:50 - No device found, check vendor_id and product_id
+2024-04-05 15:38:39.403 | ERROR    | __main__:run:50 - No device found, check vendor_id and product_id
+2024-04-05 15:38:40.536 | ERROR    | __main__:run:50 - No device found, check vendor_id and product_id
+2024-04-05 15:38:41.763 | ERROR    | __main__:run:50 - No device found, check vendor_id and product_id
+2024-04-05 15:38:42.769 | ERROR    | __main__:run:50 - No device found, check vendor_id and product_id
+2024-04-05 15:38:43.776 | ERROR    | __main__:run:50 - No device found, check vendor_id and product_id
+2024-04-05 15:38:44.784 | ERROR    | __main__:run:50 - No device found, check vendor_id and product_id
+2024-04-05 15:38:50.829 | INFO     | __main__:run:47 - Queue: deque(['5368100118'])
+2024-04-05 15:38:53.626 | INFO     | __main__:run:47 - Queue: deque(['5368100118', '5368100118'])
+2024-04-05 15:38:56.268 | INFO     | __main__:run:47 - Queue: deque(['5368100118', '5368100118', '5368100118'])
+2024-04-05 15:39:04.355 | ERROR    | __main__:run:50 - [Errno 2] Entity not found
+2024-04-05 15:39:05.975 | ERROR    | __main__:run:50 - No device found, check vendor_id and product_id
+2024-04-05 15:39:07.055 | ERROR    | __main__:run:50 - No device found, check vendor_id and product_id
+2024-04-05 15:39:08.065 | ERROR    | __main__:run:50 - No device found, check vendor_id and product_id
+2024-04-05 15:39:09.072 | ERROR    | __main__:run:50 - No device found, check vendor_id and product_id
+2024-04-05 15:39:10.079 | ERROR    | __main__:run:50 - No device found, check vendor_id and product_id
+2024-04-05 15:39:11.087 | ERROR    | __main__:run:50 - No device found, check vendor_id and product_id
+2024-04-05 15:39:12.095 | ERROR    | __main__:run:50 - No device found, check vendor_id and product_id
+2024-04-05 15:39:13.103 | ERROR    | __main__:run:50 - No device found, check vendor_id and product_id
